@@ -95,10 +95,10 @@ background:#FFF !important ;
 }
 /*goal meter  filled and then not filled*/
 .fs-goal-graph-fill{
-    background: #fe3f38 !important;
+    background: #fea146 !important;
 }
 .fs-goal-graph{
-    background: #353a59 !important;
+    background-image: linear-gradient(to bottom right,#f6127d ,#881EF8 );
 }
 /*center goal*/
 /*@media (min-width:992px){
@@ -188,7 +188,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 
 /*"Our donors"*/
 .donar-section{
-    background: #353a59;
+    background-image: linear-gradient(to bottom right,#f6127d , #881EF8);
     }
     .fs-partners>div{
         border-top:6px solid #fe3f38 !important;
