@@ -72,9 +72,9 @@ h1 *,h2 *, h3 *,.fs-about em, .fs-footer *,.fs-countdown h3 strong,    .fs-count
 
 /*buttons */
 .donate-button .donate-button-text {
-    background:#fed401 !important;
+    background:#fff !important;
   border-radius: 25px !important;
-  color:#032550 !important;
+  color:#804cbc !important;
   
   }
  /* .donate-button .donate-button-text:hover{
