@@ -98,7 +98,9 @@ background:#FFF !important ;
     background: #fea146 !important;
 }
 .fs-goal-graph{
-    background-image: linear-gradient(to bottom right,#f6127d ,#881EF8 );
+    background: #F6127D;
+background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1) 100%);
+   
 }
 /*center goal*/
 /*@media (min-width:992px){
@@ -188,7 +190,8 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 
 /*"Our donors"*/
 .donar-section{
-    background-image: linear-gradient(to bottom right,#f6127d , #881EF8);
+    background: #F6127D;
+background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1) 100%);
     }
     .fs-partners>div{
         border-top:6px solid #fe3f38 !important;
