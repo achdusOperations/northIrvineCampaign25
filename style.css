@@ -29,7 +29,7 @@ h1 *,h2 *, h3 *,.fs-about em, .fs-footer *,.fs-countdown h3 strong,    .fs-count
 /*hero image*/
 .fs-header:before {
     background-image: 
-   url("https://chabadni.com/media/images/1344/CXhJ13449486.png");
+   url("https://chabadni.com/media/images/1344/kdoY13449488.png");
    background-size:100% 100%;
    }
    @media screen and (max-width: 700px) {
@@ -255,21 +255,3 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
         width:100%;
     }
 
-    /*lengthen campaign*/
-    /*
-    .fs-matchers-intro span:nth-child(2){
-        color:#032550 !important;
-    }
-    .fs-matchers-intro span:nth-child(2)::after{
-        content: " Thank you to our generous matchers for making this a possibility, and a HUGE thank you goes to YOU for seizing the opportunity to do good.";
-        color:#032550 !important;
-    }
-      h3.fs-countdown-message::after{
-        content:"The campaign will remain open until we hit our goal." !important;
-        color:#fff;
-        visibility: visible !important;
-        position:absolute !important;
-        top:0 !important;
-        left:0 !important;
-      }
-      */
