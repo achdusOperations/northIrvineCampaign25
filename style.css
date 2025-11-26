@@ -98,8 +98,8 @@ background:#FFF !important ;
     background: #fea146 !important;
 }
 .fs-goal-graph{
-    background: #F6127D;
-background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1) 100%);
+    background: #F6127D !important;
+background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1) 100%) !important;
    
 }
 /*center goal*/
