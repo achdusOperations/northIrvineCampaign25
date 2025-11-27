@@ -60,10 +60,13 @@ h1 *,h2 *, h3 *,.fs-about em, .fs-footer *,.fs-countdown h3 strong,    .fs-count
    }
    @media screen and (max-width: 700px) {
     .fs-header .page-header h1 small{
-     font-size:24px !important;
+     font-size:18px !important;
+    }
+    .page-header .a-delay-200ms{
+        font-size:32px !important;
     }
     .fs-header .page-header h2{
-     font-size:40px !important;
+     font-size:34px !important;
      line-height: 40px !important;
      padding-top:5px !important;
     }
