@@ -129,7 +129,8 @@ background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1
 
 /*countdown*/
 .fs-countdown {
-    background:#fe3f38 !important;
+    background: #FED401;
+background: linear-gradient(90deg,rgba(254, 212, 1, 1) 0%, rgba(254, 63, 56, 1) 100%);
     }
     .fs-countdown-number, .fs-countdown-sep{
       color:#fff !important;
@@ -172,7 +173,7 @@ background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1
 fill:#F8A147
 }*/
 div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > polygon{
-    fill:#881ef8 !important;
+    fill:#F6127D !important;
 }
 
 /*dollar sign*/
