@@ -195,14 +195,15 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1) 100%);
     }
     .fs-partners>div{
-        border-top:6px solid #fe3f38 !important;
+        border-top:6px solid #fff !important;
         background: #F6127D;
 background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1) 100%);
         border-radius:25px !important;
     }       
     .fs-partners .fs-btn{
-        background:#fe3f38 !important;
+        background:#fff !important;
         border-radius: 25px !important;
+        color:#fe3f38 !important;
         }
         .fs-partners h3 span , body > div.fs-root > div > div.container.fs-about-partners-container > div > div.col-md-4.fs-partners.js-partners > div > h3 {
             color:#FFF !important;
