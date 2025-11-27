@@ -173,7 +173,7 @@ background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1
 fill:#F8A147
 }*/
 div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > polygon{
-    fill:#F6127D !important;
+    fill:#Fff !important;
 }
 
 /*dollar sign*/
