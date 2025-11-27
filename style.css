@@ -175,6 +175,11 @@ fill:#F8A147
 div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > polygon{
     fill:#Fff !important;
 }
+@media screen and (max-width: 700px) {
+div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > polygon{
+    fill:#F1f1f1 !important;
+}
+}
 
 /*dollar sign*/
 .fs-donate .fs-donate-amounts {
