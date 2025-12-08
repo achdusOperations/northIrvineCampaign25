@@ -290,7 +290,7 @@ background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1
     }
     /*"Every $=*/
     .fs-matchers .fs-matchers-intro strong{
-        color:#fe766c !important;
+        color:#fe3f38 !important;
         font-style:italic !important;
     }
     .fs-matchers .fs-matchers-intro span:nth-child(2){
@@ -299,11 +299,11 @@ background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1
     }
 /*circle*/
     .fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-ratio::after{
-        box-shadow:inset 0 0 0 2px #fe766c !important;
+        box-shadow:inset 0 0 0 2px #fe3f38 !important;
     }
     /*triple your impact*/
     body > div.fs-root.fs-pre-campaign > div > div.fs-campaign-info > div.container-fluid.fs-matchers > div > h3 > span{
-        color:#fe766c !important;
+        color:#fe3f38 !important;
     }
     /*circle with picture*/
 /*.fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-max{
