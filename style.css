@@ -297,9 +297,13 @@ background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1
         color:#101d5f !important;
         font-style: italic !important;
     }
-
+/*circle*/
     .fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-ratio::after{
         box-shadow:inset 0 0 0 2px #fe766c !important;
+    }
+    /*triple your impact*/
+    body > div.fs-root.fs-pre-campaign > div > div.fs-campaign-info > div.container-fluid.fs-matchers > div > h3 > span{
+        color:#fe766c !important;
     }
     /*circle with picture*/
 /*.fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-max{
