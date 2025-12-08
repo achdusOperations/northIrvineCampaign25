@@ -107,7 +107,7 @@ background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1
    
 }
 /*center goal*/
-/*@media (min-width:992px){
+@media (min-width:992px){
     .fs-goal .fs-goal-text{
     display: flex !important;
     justify-content: center !important;
