@@ -120,12 +120,12 @@ background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1
 .fs-matchers .fs-matchers-intro strong{
     color:#353a59 !important;
 }
-.fs-matchers .fs-matcher .fs-matcher-image{
+/*.fs-matchers .fs-matcher .fs-matcher-image{
     display:none !important;   
 }
 .fs-matchers .fs-matcher .fs-matcher-title{
     display:none !important;
-}
+}*/
 
 /*countdown*/
 .fs-countdown {
