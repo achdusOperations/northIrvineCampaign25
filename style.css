@@ -305,35 +305,7 @@ background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1
     body > div.fs-root.fs-pre-campaign > div > div.fs-campaign-info > div.container-fluid.fs-matchers > div > h3 > span{
         color:#fe3f38 !important;
     }
-    /*circle with picture*/
-/*.fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-max{
-        width:110px !important;
-        max-width: 110% !important;
-    }
-    /*title*/
-    /*body > div > div > div.fs-campaign-info > div.container-fluid.fs-matchers > div > h3 span{
-        text-transform: uppercase !important;
-        color: #16396a !important;
-        font-size:20px !important;
-    }
-   /* .fs-matchers .fs-matchers-intro{
-        position:relative !important;
-        top:427px !important;
-        
     
-    .container-fluid.fs-matchers{
-        margin-bottom:20px !important;
-    }
-   /* @media (max-width:991px){
-        .fs-matchers .fs-matchers-intro{
-            position:relative !important;
-            top: 758px !important;
-            margin-top:-70px !important;
-        }
-        .container-fluid.fs-matchers{
-            margin-bottom: 70px !important;
-        }
-    }*/
    
     .fs-matchers .fs-matcher .fs-matcher-title{
         font-size: 24px !important;
@@ -355,3 +327,7 @@ background: linear-gradient(90deg,rgba(246, 18, 125, 1) 0%, rgba(136, 30, 248, 1
           width:100%;
         }
       }
+      /*hide the triple*/
+h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
+display:none !important;
+}
