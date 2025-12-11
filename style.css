@@ -148,8 +148,9 @@ background: linear-gradient(90deg,rgba(254, 212, 1, 1) 0%, rgba(254, 63, 56, 1) 
     h3.fs-countdown-message {
         color: #fff !important;
        /*to lengthen*/
-       display:hidden !important;
+      /* display:hidden !important;
        position:relative !important;
+       */
     } 
     /*full width*/
     /*.fs-countdowndonate{
@@ -331,7 +332,7 @@ display:none !important;
 }
 
 /*lengthen campaign*/
-    
+    /*
       h3.fs-countdown-message::after{
         content:"The campaign will remain open until we hit our goal." !important;
         color:#fff;
@@ -340,3 +341,4 @@ display:none !important;
         top:0 !important;
         left:0 !important;
       }
+/*
